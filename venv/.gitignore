@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Images (optional - agar upload nahi karna toh)
+# images/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
