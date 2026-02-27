@@ -110,8 +110,4 @@ El País for content source
 Google Translate API for translation services
 ## 📸 BrowserStack Execution Proof
 
-![BrowserStack Dashboard](screenshots/Screenshot (1).png)
-![BrowserStack Dashboard](screenshots/Screenshot (3).png)
-![BrowserStack Dashboard](screenshots/Screenshot (4).png)
-![BrowserStack Dashboard](screenshots/Screenshot (6).png)
-![BrowserStack Dashboard](screenshots/Screenshot (7).png)
+
