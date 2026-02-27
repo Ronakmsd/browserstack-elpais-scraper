@@ -96,7 +96,6 @@ BrowserStack Dashboard: https://automate.browserstack.com/dashboard
 El País Website: https://elpais.com/opinion/
 👤 Author
 Ronak Bhanushali
-GitHub: @Ronakmsd
 Email: beingronakmsd@gmail.com
 📝 Note
 Created as part of the BrowserStack Customer Engineer hiring process (February 2026).
