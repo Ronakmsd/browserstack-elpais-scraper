@@ -103,4 +103,4 @@ Created as part of the BrowserStack Customer Engineer hiring process (February 2
 📄 License
 This project is for educational and assignment purposes.
 
-![BrowserStack Dashboard](README.md/Screenshot (1).png)
+
