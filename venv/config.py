@@ -1,7 +1,7 @@
 # config.py
 # BrowserStack credentials 
-BS_USERNAME = "ronak_TLJ8wD"
-BS_ACCESS_KEY = "de56mifb87x3aZ8kB5Qs"
+BS_USERNAME = "your_browserstack_username"
+BS_ACCESS_KEY = "your_browserstack_key"
 
 # Website URLs
 ELPAIS_URL = "https://elpais.com"
